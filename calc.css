@@ -17,15 +17,16 @@ h1 {
 
 .screen[type=text] {
   clear: both;
-  font-size: 2.5em;
-  font-weight: lighter;
-  color: white;
-  background-color: #61B34F;
-  width: 313px;
-  height: 98px;
-  text-align: right;
-  border: 0 solid;
-  padding-right: 20px;
+    font-size: 2.5em;
+    font-weight: lighter;
+    color: white;
+    background-color: #61B34F;
+    width: 313px;
+    height: 89px;
+    text-align: right;
+    border: 0 solid;
+    padding-right: 20px;
+    padding-bottom: 9px;
 }
 
 .number {
